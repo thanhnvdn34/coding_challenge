@@ -1,4 +1,4 @@
-package com.example.codingchallenge.ui.dashboard
+package com.example.codingchallenge.presentation.view.dashboard
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
